@@ -1,12 +1,10 @@
-<h1 class="text-4xl font-bold underline">
-  Hello world!
-</h1>
-<h1>Tutorials to do:</h1>
-<ul>
-  <li><a class="text-red-500" href="https://youtu.be/wEM5NdJ-8HY?si=H2jEclezbzkqfBFm">Beginner Tailwind [FULL COURSE] 9h</a> </li>
-</ul>
+<div class="flex flex-col min-h-screen">
+  <app-navbar></app-navbar>
+  <div class="container mx-auto py-7 grow h-full">
+    <div class="mx-5">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+  <app-footer></app-footer>
+</div>
 
-<p>
-  Consider later DaisyUI, fontawesome.
-</p>
-<p>Checkout the deployment on https://monumental-sunshine-62106e.netlify.app/</p>
