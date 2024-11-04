@@ -25,17 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-
-
-start iframe
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wgtUOfinKCg?si=dzDb3gtTLVNccD-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-end of iframe
-
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
